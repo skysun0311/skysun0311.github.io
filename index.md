@@ -1,5 +1,5 @@
 ### [百度](https://www.baidu.com)
 
-### [工具](tools.liumingye.com)
+### [工具](https://tools.liumingye.com)
 
-## [bilibili](www.bilibili.com)
+## [bilibili](https://www.bilibili.com)
